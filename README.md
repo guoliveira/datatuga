@@ -38,3 +38,18 @@ DataTuga has only one main objective:
 
 **To help profissionals in Portugal that want to work as Data Engineer and that have good soft skills but low hard skills**
 
+So lets start? 😉
+
+**INDEX**
+
+1. Guidelines to Get a Data Engineer Job Against the Odd
+2. All my Medium Articles for Free
+3. Education links
+4. Data Projects Ideas
+5. The Importance of Networking
+6. How to Learn from Failure
+7. How to Handle Job Processes
+
+
+
+
