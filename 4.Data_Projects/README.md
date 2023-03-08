@@ -1,0 +1,3 @@
+# DataTuga
+
+## Data Projects Ideas
