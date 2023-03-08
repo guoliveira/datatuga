@@ -42,7 +42,7 @@ So lets start? 😉
 
 **INDEX**
 
-1. Guidelines to Get a Data Engineer Job Against the Odd
+1. [Guidelines to Get a Data Engineer Job Against the Odd](https://github.com/guoliveira/datatuga/tree/main/1.Guidelines/README.md)
 2. All my Medium Articles for Free
 3. Education links
 4. Data Projects Ideas
