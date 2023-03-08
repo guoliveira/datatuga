@@ -43,12 +43,12 @@ So lets start? 😉
 **INDEX**
 
 1. [Guidelines to Get a Data Engineer Job Against the Odd](https://github.com/guoliveira/datatuga/tree/main/1.Guidelines/README.md)
-2. All my Medium Articles for Free
-3. Education links
-4. Data Projects Ideas
-5. The Importance of Networking
-6. How to Learn from Failure
-7. How to Handle Job Processes
+2. [All my Medium Articles for Free](https://github.com/guoliveira/datatuga/tree/main/2.Articles/README.md) 
+3. [Education links ](https://github.com/guoliveira/datatuga/tree/main/3.Education/README.md)
+4. [Data Projects Ideas](https://github.com/guoliveira/datatuga/tree/main/4.Data_Projects/README.md)
+5. [The Importance of Networking](https://github.com/guoliveira/datatuga/tree/main/5.Networking/README.md)
+6. [How to Learn from Failure](https://github.com/guoliveira/datatuga/tree/main/6.Learn/README.md)
+7. [How to Handle Job Processes](https://github.com/guoliveira/datatuga/tree/main/7.Process/README.md)
 
 
 # DataTuga
